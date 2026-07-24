@@ -81,6 +81,16 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - **Physical therapy** — [Physical therapy marketing](https://medicalmarketing.digital/blog/physical-therapy-marketing/)
 - **Addiction / Rehab** — [Drug rehab SEO](https://medicalmarketing.digital/blog/drug-rehab-seo/) · [Drug rehab Google Ads](https://medicalmarketing.digital/blog/drug-rehab-google-ads/)
 
+## Practice growth guides (new, 2026)
+
+- [How to get more patient reviews (ethically)](https://medicalmarketing.digital/blog/how-to-get-more-patient-reviews/) — compliant review generation and why reviews feed AI recommendations.
+- [How to increase patient volume with digital marketing](https://medicalmarketing.digital/blog/how-to-increase-patient-volume/) — which channels move patient volume, in what order.
+- [Web design for surgeons](https://medicalmarketing.digital/blog/web-design-for-surgeons/) — what surgeon websites need: procedure pages, compliant galleries, booking UX.
+- [Content marketing for medical practices](https://medicalmarketing.digital/content-marketing-for-medical-practices/) — E-E-A-T authorship and content that AI assistants cite.
+- [Google Ads for pediatricians](https://medicalmarketing.digital/google-ads-for-pediatricians/) — parents as the searcher, seasonality, sensitive-category limits.
+- [Outpatient rehab center marketing](https://medicalmarketing.digital/outpatient-rehab-center-marketing/) — IOP/PHP programs: local catchment and referral relationships.
+- [Spanish-language medical marketing in the US](https://medicalmarketing.digital/spanish-medical-marketing-services/) — reaching Spanish-speaking patients with native campaigns.
+
 ## Tools
 
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) — free keyword research.
