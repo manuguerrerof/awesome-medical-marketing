@@ -17,6 +17,7 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Content & Patient Education](#content--patient-education)
 - [Compliance & Healthcare Advertising Rules](#compliance--healthcare-advertising-rules)
 - [By Specialty](#by-specialty)
+- [Patient acquisition by procedure (ES)](#patient-acquisition-by-procedure-es)
 - [Studies & Benchmarks (2026)](#studies--benchmarks-2026)
 - [Choosing an Agency](#choosing-an-agency)
 - [Measurement & Attribution](#measurement--attribution)
@@ -64,6 +65,7 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Cómo aparecer en ChatGPT como clínica](https://medicalmarketing.digital/es/blog/como-aparecer-en-chatgpt-clinica/) (ES)
 - [llms.txt proposal](https://llmstxt.org/): the emerging standard for AI-readable site summaries.
 - [AI Search Optimization for Healthcare](https://medicalmarketing.digital/ai-search-optimization-healthcare/): How clinics get recommended by ChatGPT, Perplexity and Google AI through AI search optimization.
+- [¿Quién elige la clínica ahora? Lo decide una IA que nadie regula](https://medicalmarketing.digital/es/blog/quien-elige-la-clinica-ahora/): opinion piece on AI assistants recommending clinics under criteria nobody regulates, and what a clinic should do about it. (ES)
 
 ## Reviews & Online Reputation
 
@@ -101,6 +103,8 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - **Concierge Medicine**: [Concierge Medicine Marketing](https://medicalmarketing.digital/blog/concierge-medicine-marketing/)
 - **Dermatology**: [Dermatology Marketing](https://medicalmarketing.digital/blog/dermatology-marketing/)
 - **Pharmaceutical**: [Digital Pharmaceutical Marketing](https://medicalmarketing.digital/es/blog/marketing-farmaceutico-digital/) (ES)
+- **Nutrition**: [SEO para nutricionistas](https://medicalmarketing.digital/es/seo-nutricionistas/): search positioning guide for nutrition practices looking to reach patients through organic results. (ES)
+- **Veterinary**: [SEO para veterinarios](https://medicalmarketing.digital/es/seo-veterinarios/): search positioning guide for veterinary clinics competing against chains and booking platforms for local visibility. (ES)
 
 ## Practice growth guides (new, 2026)
 
@@ -112,10 +116,30 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Outpatient rehab center marketing](https://medicalmarketing.digital/outpatient-rehab-center-marketing/): IOP/PHP programs: local catchment and referral relationships.
 - [Spanish-language medical marketing in the US](https://medicalmarketing.digital/spanish-medical-marketing-services/): reaching Spanish-speaking patients with native campaigns.
 
+## Patient acquisition by procedure (ES)
+
+Practical guides to winning patients for a single procedure, written for the clinic whose revenue depends on that treatment, each covering search, channels, and follow-up.
+
+- [Patient acquisition for lipedema surgery](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-lipedema/): guide to reaching patients who suspect lipedema, from search intent and treatment pages to reviews, ads, and follow-up. (ES)
+- [Patient acquisition for laser refractive surgery](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-cirugia-refractiva/): guide to attracting patients considering glasses-free vision, covering search behaviour, channels, treatment pages, reviews, ads, and follow-up. (ES)
+- [Patient acquisition for orthognathic surgery](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-cirugia-ortognatica/): guide to reaching patients needing jaw correction, from who searches and what they search to treatment pages, reviews, and ads. (ES)
+- [Patient acquisition for zygomatic implants](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-implantes-cigomaticos/): guide to attracting patients with severe bone loss, covering search intent, channels, treatment pages, reviews, ads, and follow-up. (ES)
+- [Patient acquisition for varicose vein treatment](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-varices/): guide to reaching patients seeking vein treatment, from search intent and channels to treatment pages, reviews, and ads. (ES)
+- [Patient acquisition for shockwave therapy](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-ondas-de-choque/): guide for physiotherapy practices, covering who searches, their intent, channels, treatment pages, reviews, ads, and follow-up. (ES)
+- [Patient acquisition for knee injections](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-infiltraciones-rodilla/): guide to reaching patients with knee pain, from search behaviour and channels to treatment pages, reviews, ads, and follow-up. (ES)
+- [Patient acquisition for couples therapy](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-terapia-de-pareja/): guide for couples therapy and sexology practices, covering search intent, channels, treatment pages, reviews, ads, and follow-up. (ES)
+- [Patient acquisition for private colonoscopy](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-colonoscopia/): guide to reaching patients seeking private screening, from search intent and channels to treatment pages, reviews, and ads. (ES)
+- [Patient acquisition for buttock augmentation](https://medicalmarketing.digital/es/blog/como-conseguir-pacientes-aumento-de-gluteos/): guide to attracting patients considering the procedure, covering search intent, channels, treatment pages, reviews, ads, and follow-up. (ES)
+
 ## Studies & Benchmarks (2026)
 - [The Lost Click: AI and Clinic Search](https://medicalmarketing.digital/es/el-clic-perdido/): Study of Spanish private clinics showing how AI search cuts clicks to top Google results. (ES)
 - [Cost of Medical Advertising on Google 2026](https://medicalmarketing.digital/es/blog/estudio-coste-publicidad-medica-google/): Google Ads cost per click by treatment and country for clinics, with 2026 reference data. (ES)
 - [Addiction Treatment Center Websites Report Card 2026](https://medicalmarketing.digital/addiction-treatment-website-report-card/): Review of 1,000 US addiction treatment center websites, checking accreditation display and site quality.
+- [La Nota de la Sanidad](https://medicalmarketing.digital/es/la-nota-de-la-sanidad/): study of 29,310 private healthcare centers and 3.4 million Google reviews across 22 sectors, with average ratings by sector and city. (ES)
+- [La Nota de la Sanidad por provincias](https://medicalmarketing.digital/es/la-nota-de-la-sanidad-por-provincias/): second installment ranking 40 provinces and 17 regions by sector-adjusted average rating, with sector gaps and capital-city weight. (ES)
+- [El Clic Perdido, otoño 2026](https://medicalmarketing.digital/es/el-clic-perdido-otono-2026/): second wave on the decline of clicks from Google and the rise of AI-assistant visits to Spanish clinics, July to September 2026. (ES)
+- [¿Qué clínica recomienda la IA?](https://medicalmarketing.digital/es/que-clinica-recomienda-la-ia/): 270 ChatGPT and Gemini answers to a patient requesting a clinic across 15 cities and 6 specialties, with agreement near zero (0.04). (ES)
+- [Spain private healthcare Google reviews 2026 (open data)](https://github.com/manuguerrerof/spain-private-healthcare-reviews-2026): aggregated CSV tables of average ratings by sector, province, and region for 29,310 centers, released under CC BY 4.0.
 
 ## Choosing an Agency
 - [How to Judge Medical Marketing Agencies](https://medicalmarketing.digital/blog/best-medical-marketing-agencies/): Criteria-based guide to evaluating medical marketing agencies and why healthcare-only specialization matters.
@@ -123,6 +147,7 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Drug Rehab Marketing Agency Guide](https://medicalmarketing.digital/blog/best-drug-rehab-marketing-agency/): Guide to marketing agencies for addiction treatment centers, covering LegitScript-compliant Google Ads and SEO.
 - [Dental Marketing Agencies in Spain (2026)](https://medicalmarketing.digital/es/blog/mejores-agencias-marketing-dental-espana/): Comparison of dental marketing agencies in Spain with criteria, prices and verifiable credentials. (ES)
 - [How to Choose a Medical Marketing Agency](https://medicalmarketing.digital/es/blog/como-elegir-agencia-marketing-medico/): Clear criteria for choosing a medical marketing agency, what to ask and warning signs to avoid. (ES)
+- [Medical Marketing Agency UK](https://medicalmarketing.digital/medical-marketing-agency-uk/): marketing for private UK clinics, covering CQC guidance, ASA advertising rules, and patients arriving through AI assistants.
 
 ## Measurement & Attribution
 - [Medical Marketing Attribution](https://medicalmarketing.digital/blog/medical-marketing-attribution/): How to track booked and attended patients across calls, forms, WhatsApp and walk-ins without exposing PHI.
