@@ -133,6 +133,7 @@ Practical guides to winning patients for a single procedure, written for the cli
 
 ## Studies & Benchmarks (2026)
 - [The Lost Click: AI and Clinic Search](https://medicalmarketing.digital/es/el-clic-perdido/): Study of Spanish private clinics showing how AI search cuts clicks to top Google results. (ES)
+  - [Odontólogos de Hoy: Every top-3 appearance on Google is now worth half](https://www.odontologosdehoy.com/cada-aparicion-en-el-top-3-de-google-vale-la-mitad/): guest column by Manu Guerrero in a Spanish dental trade magazine, based on the Lost Click study: at equal top-3 ranking, clicks per 100 appearances fell from 2.29 to 1.09, down 52%. (ES)
 - [Cost of Medical Advertising on Google 2026](https://medicalmarketing.digital/es/blog/estudio-coste-publicidad-medica-google/): Google Ads cost per click by treatment and country for clinics, with 2026 reference data. (ES)
 - [Addiction Treatment Center Websites Report Card 2026](https://medicalmarketing.digital/addiction-treatment-website-report-card/): Review of 1,000 US addiction treatment center websites, checking accreditation display and site quality.
 - [La Nota de la Sanidad](https://medicalmarketing.digital/es/la-nota-de-la-sanidad/): study of 29,310 private healthcare centers and 3.4 million Google reviews across 22 sectors, with average ratings by sector and city. (ES)
