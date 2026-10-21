@@ -66,6 +66,11 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [llms.txt proposal](https://llmstxt.org/): the emerging standard for AI-readable site summaries.
 - [AI Search Optimization for Healthcare](https://medicalmarketing.digital/ai-search-optimization-healthcare/): How clinics get recommended by ChatGPT, Perplexity and Google AI through AI search optimization.
 - [¿Quién elige la clínica ahora? Lo decide una IA que nadie regula](https://medicalmarketing.digital/es/blog/quien-elige-la-clinica-ahora/): opinion piece on AI assistants recommending clinics under criteria nobody regulates, and what a clinic should do about it. (ES)
+- [Cómo saber si ChatGPT recomienda tu clínica](https://medicalmarketing.digital/es/blog/como-saber-si-chatgpt-recomienda-tu-clinica/): practical guide to check whether AI assistants recommend your clinic using data you already have. (ES)
+- [Anuncios en ChatGPT para clínicas: un mes de datos propios](https://medicalmarketing.digital/es/blog/anuncios-en-chatgpt-clinicas/): first-hand account of running paid ads inside ChatGPT, with real traffic and conversion ratios. (ES)
+- [Cómo aparecer en ChatGPT si eres dentista](https://medicalmarketing.digital/es/blog/como-aparecer-en-chatgpt-dentista/): how dental clinics can get recommended by ChatGPT through Google Business Profile, Doctoralia, reviews and treatment pages. (ES)
+- [Aparecer en los resúmenes de IA de Google con tu clínica](https://medicalmarketing.digital/es/blog/como-aparecer-en-ai-overviews-google-clinica/): what Google AI Overviews and AI Mode look at when naming a clinic, and how to measure visibility for free. (ES)
+- [Cómo aparecer en Perplexity siendo una clínica privada](https://medicalmarketing.digital/es/blog/como-aparecer-en-perplexity-clinica/): how private clinics can appear in Perplexity answers, where third-party pages matter more than your own website. (ES)
 
 ## Reviews & Online Reputation
 
@@ -73,6 +78,8 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [How to respond to negative patient reviews](https://medicalmarketing.digital/blog/how-to-respond-to-negative-patient-reviews/)
 - [Cómo conseguir reseñas de pacientes](https://medicalmarketing.digital/es/blog/como-conseguir-resenas-pacientes/) (ES)
 - [FTC guidance on reviews and endorsements](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking): why fake reviews are illegal.
+- [Cómo eliminar una reseña falsa de Google en tu clínica](https://medicalmarketing.digital/es/blog/eliminar-resena-falsa-google-clinica/): what Google will actually remove, how to report a review, and the legal route if the request is denied. (ES)
+- [Cuántas reseñas necesita una clínica: la cifra real](https://medicalmarketing.digital/es/blog/cuantas-resenas-necesita-una-clinica/): median review counts for private healthcare centres in Spain by specialty, and the threshold for the top quartile. (ES)
 
 ## Content & Patient Education
 
@@ -115,6 +122,11 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Google Ads for pediatricians](https://medicalmarketing.digital/google-ads-for-pediatricians/): parents as the searcher, seasonality, sensitive-category limits.
 - [Outpatient rehab center marketing](https://medicalmarketing.digital/outpatient-rehab-center-marketing/): IOP/PHP programs: local catchment and referral relationships.
 - [Spanish-language medical marketing in the US](https://medicalmarketing.digital/spanish-medical-marketing-services/): reaching Spanish-speaking patients with native campaigns.
+- [Marketing sanitario: qué es y cómo aplicarlo bien](https://medicalmarketing.digital/es/blog/que-es-marketing-sanitario/): practical overview of healthcare marketing for private clinics in Spain, what makes it different and how it works day to day. (ES)
+- [Marketing dental: guía para tu clínica en España](https://medicalmarketing.digital/es/blog/marketing-dental-guia-clinicas-dentales/): practical dental marketing guide for clinics in Spain covering website, local SEO, Google Ads, reviews and quote tracking. (ES)
+- [Experiencia del paciente en clínica privada: guía](https://medicalmarketing.digital/es/blog/experiencia-del-paciente-clinica/): what patient experience means in a private clinic, why it drives return visits, and how to improve each touchpoint. (ES)
+- [Plan de marketing para una clínica: plantilla y pasos](https://medicalmarketing.digital/es/blog/plan-de-marketing-clinica/): step-by-step method to build a clinic marketing plan with objectives, channels and monthly review, template included. (ES)
+- [Marketing para nutricionistas: guía práctica](https://medicalmarketing.digital/es/blog/marketing-para-nutricionistas-guia/): practical marketing guide for nutritionists with their own practice covering niche, local SEO, Google profile, online consultation and reviews. (ES)
 
 ## Patient acquisition by procedure (ES)
 
