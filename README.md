@@ -52,6 +52,7 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Facebook Ads for Med Spas](https://medicalmarketing.digital/blog/facebook-ads-for-med-spas/): Step-by-step Facebook ads for med spas: offer structure, compliant creative, lead forms and follow-up.
 - [Google Ads for Weight Loss Clinics](https://medicalmarketing.digital/blog/weight-loss-clinic-google-ads/): Weight loss clinic Google Ads in the GLP-1 era: ad policies, demand capture and lead qualification.
 - [Google Ads for Urgent Care](https://medicalmarketing.digital/blog/urgent-care-google-ads/): Urgent care PPC playbook: campaign structure, call ads, hour-of-day bidding, negatives and landing pages.
+- [Meta Lead Forms vs Landing Pages for Med Spas](https://medicalmarketing.digital/blog/meta-lead-forms-vs-landing-pages-med-spa/): when to capture med spa leads with Meta instant forms versus sending traffic to a landing page, and how each affects lead quality and cost.
 
 ## Local SEO & Google Business Profile
 
@@ -71,6 +72,8 @@ Maintained by the team at [Medical Marketing](https://medicalmarketing.digital/)
 - [Cómo aparecer en ChatGPT si eres dentista](https://medicalmarketing.digital/es/blog/como-aparecer-en-chatgpt-dentista/): how dental clinics can get recommended by ChatGPT through Google Business Profile, Doctoralia, reviews and treatment pages. (ES)
 - [Aparecer en los resúmenes de IA de Google con tu clínica](https://medicalmarketing.digital/es/blog/como-aparecer-en-ai-overviews-google-clinica/): what Google AI Overviews and AI Mode look at when naming a clinic, and how to measure visibility for free. (ES)
 - [Cómo aparecer en Perplexity siendo una clínica privada](https://medicalmarketing.digital/es/blog/como-aparecer-en-perplexity-clinica/): how private clinics can appear in Perplexity answers, where third-party pages matter more than your own website. (ES)
+- [Qué hacer si ChatGPT dice algo incorrecto de tu clínica](https://medicalmarketing.digital/es/blog/chatgpt-dice-algo-incorrecto-de-tu-clinica/): how to find and correct wrong information an AI assistant gives about your clinic by fixing the sources it reads. (ES)
+- [ChatGPT recomienda a mi competencia: qué hacer](https://medicalmarketing.digital/es/blog/por-que-chatgpt-recomienda-a-tu-competencia/): why AI assistants name rival clinics instead of yours, and the signals to work on to change that. (ES)
 
 ## Reviews & Online Reputation
 
